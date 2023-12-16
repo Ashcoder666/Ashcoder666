@@ -1,37 +1,46 @@
-# Hi there! 👋 I'm [Your Name]
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
-## About Me
+### Languages
 
-I'm a passionate Backend Developer and DevOps Engineer, with a love for building scalable and robust systems. My expertise lies in utilizing a diverse set of technologies to craft efficient solutions. Here's a glimpse of what I do:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
-- 🔧 **Backend Development:** Golang, JavaScript
-- 🌐 **Frontend Development:** React
-- 🐳 **DevOps Tools:** Docker, Kubernetes
-- 🚀 **Other Tools:** [List other relevant tools and technologies]
+### Technologies
 
-## Programming Languages and Tools
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-![Golang](data:image/png;base64,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) ![JavaScript](icons/javascript.png) ![React](icons/react.png) [Add icons for other tools]
+### Full Stack Projects
 
-## DevOps Tools
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
-![Docker](icons/docker.png) ![Kubernetes](icons/kubernetes.png) [Add icons for other DevOps tools]
+### Cybersecurity Projects
 
-## Programming Environment
+[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
+[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
+[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
+[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
+[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
+[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
 
-- 💻 **Operating System:** Linux (Bash)
-- 🛠️ **Other Tools:** [List other relevant programming tools]
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs,issues,contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
-## Let's Connect!
-
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](icons/twitter.png)](https://twitter.com/your-twitter-profile/)
-[![Portfolio](icons/portfolio.png)](https://your-portfolio-url.com/)
-
-Feel free to reach out for collaboration or just to chat about tech and development! 😊
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
