@@ -1,47 +1,37 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
+## About Me
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+I'm a passionate Backend Developer and DevOps Engineer, with a love for building scalable and robust systems. My expertise lies in utilizing a diverse set of technologies to craft efficient solutions. Here's a glimpse of what I do:
 
-name: Generate Datas
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-with:
-          github_user_name: thepiyushmalhotra
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<!--
-**Ashcoder666/Ashcoder666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 **Backend Development:** Golang, JavaScript
+- 🌐 **Frontend Development:** React
+- 🐳 **DevOps Tools:** Docker, Kubernetes
+- 🚀 **Other Tools:** [List other relevant tools and technologies]
 
-Here are some ideas to get you started:
+## Programming Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Golang](icons/golang.png) ![JavaScript](icons/javascript.png) ![React](icons/react.png) [Add icons for other tools]
+
+## DevOps Tools
+
+![Docker](icons/docker.png) ![Kubernetes](icons/kubernetes.png) [Add icons for other DevOps tools]
+
+## Programming Environment
+
+- 💻 **Operating System:** Linux (Bash)
+- 🛠️ **Other Tools:** [List other relevant programming tools]
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs,issues,contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+## Let's Connect!
+
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Twitter](icons/twitter.png)](https://twitter.com/your-twitter-profile/)
+[![Portfolio](icons/portfolio.png)](https://your-portfolio-url.com/)
+
+Feel free to reach out for collaboration or just to chat about tech and development! 😊
